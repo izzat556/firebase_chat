@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222455595324",
+    "project_id": "chat-with-mitch",
+    "storage_bucket": "chat-with-mitch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222455595324:android:a1b451b5a9f67c4b729e39",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_with_m"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNG8JvO5whPwqjdxE9YepJgsgWRjSgikQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
